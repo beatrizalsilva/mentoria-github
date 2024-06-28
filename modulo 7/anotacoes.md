@@ -1,0 +1,5 @@
+# Benefícios de GitHub Community
+
+- Open source: software de código aberto pode ser usado, modificado e compartilhado livremente por qualquer pessoa. Ao usar software de código aberto, qualquer pessoa pode visualizar, modificar e distribuir um projeto para qualquer finalidade.
+- Sponsors: Você pode apoiar financeiramente as pessoas que constroem e mantêm o ecossistema de código aberto por meio de código, liderança, orientação, design e muito mais. O código aberto depende muito do trabalho voluntário.
+- Forking: é um novo repositório que compartilha código e configurações de visibilidade com o repositório "upstream" original. Os forks são frequentemente usados para iterar ideias ou mudanças antes de serem propostos de volta ao repositório upstream, como em projetos de código aberto ou quando um usuário não tem acesso de gravação ao repositório upstream.
